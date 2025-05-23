@@ -1,0 +1,1 @@
+One IDE I did not choose for this course is NetBeans. While NetBeans supports Java and has a straightforward interface, I found that its performance was slower compared to other IDEs. Additionally, the plugin support and community resources are not as rich as IntelliJ IDEA, which made it less appealing for my learning and development process.
